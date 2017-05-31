@@ -1,0 +1,6 @@
+
+SET DEBUG=socialaggregator:* & npm start
+
+
+http://html2jade.org/
+https://app.pluralsight.com/library/courses/oauth-passport-securing-application
